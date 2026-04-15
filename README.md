@@ -192,6 +192,8 @@ A CSV snapshot of the exported design is also saved automatically to your Downlo
 
 > Re-export any time you change constraints before running the GA to keep these fields in sync. **Run Genetic Algorithm…** is disabled until you export at least once.
 
+<img width="1242" height="1023" alt="image" src="https://github.com/user-attachments/assets/017aa076-694a-4a42-8b3e-a77b3e0065c6" />
+
 ### 6. Run the GA
 
 Click **Run Genetic Algorithm…** and set parameters:
