@@ -194,7 +194,10 @@ A CSV snapshot of the exported design is also saved automatically to your Downlo
 
 <p align="center">
   <img width="728" height="600" alt="image" src="https://github.com/user-attachments/assets/017aa076-694a-4a42-8b3e-a77b3e0065c6" />
+  <br>
+  <em>Example structure designed using the GUI</em>
 </p>
+
 ### 6. Run the GA
 
 Click **Run Genetic Algorithm…** and set parameters:
